@@ -12,6 +12,11 @@ This repository separates **research reviewed**, **designed/prepared labs**, and
 - [Synthetic PHP2Shell to Root Correlation Hunt](projects/php2shell-to-root.md) — prepared synthetic dataset/script workflow; not executed in the user VM.
 - [Cisco Talos Help-Desk Vishing and EDR Tampering Research](projects/talos-vishing-edr-tampering.md) — research review; not a personal incident investigation.
 
+## Defensive code
+
+- [Code inventory and provenance](scripts/README.md)
+- [Read-only Ollama exposure audit reference script](scripts/Invoke-OllamaExposureAudit.ps1) — reconstructed from the documented project purpose; not the original recovered file and not executed in this workspace.
+
 ## AI-assisted triage boundary
 
 The Notion record for AI-assisted Suricata/Ollama triage documents a planned localhost-only workflow and explicitly says completion and evidence are unverified. It is therefore not claimed here as a completed detection, successful AI triage, or measurable outcome.
